@@ -11,6 +11,7 @@ namespace DEMO_LIBRARY
         public void Get()
         {
             Console.WriteLine("Hi Hello World");
+            Console.WriteLine("Hi");
         }
     }
 
